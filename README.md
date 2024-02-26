@@ -1,13 +1,15 @@
 # Large Language Model for Women's Health Recommendation
 -  About
 -  Our Solution
--  Need
+-  Drawbacks of Current Menstrual Tracking Applications
 -  Tackling the Limitations
 -  About the Large Language Model
 
 ## About
 
 Women’s Health Recommendation System aims to address major gaps in the existing menstrual tracking apps by leveraging the power of **Large Language Models (LLMs)** in creating personalized health recommendations. It uses crowdsourced data and an informed health management system to create a positive menstrual narrative among users. 
+
+
 
 ## Our Solution
 A Large Language Model based recommendation system that:
@@ -17,8 +19,11 @@ A Large Language Model based recommendation system that:
 - Use of crowdsourced data to enhance and optimize recommendation algorithms based on shared knowledge and experiences.
 - Dismantling stigma and fostering a culture of informed menstrual health management through educational resources, supportive content, and community engagement features.
 
+<img width="452" alt="objectives" src="https://github.com/Palak-Kaushik/WHRS/assets/124910256/baf2232d-a4f9-4e7e-ba69-700c2808eb84">
 
-## Why
+
+
+## Drawbacks of Current Menstrual Tracking Applications
 
 The existing women's health tracking apps primarily focus on symptom tracking and menstrual date prediction. They completely overlook the possibility of any enhancement in women's physical health and immunity. Major drawbacks in existing systems:
  
