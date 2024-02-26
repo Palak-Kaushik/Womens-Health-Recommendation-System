@@ -19,7 +19,7 @@ A Large Language Model based recommendation system that:
 - Use of crowdsourced data to enhance and optimize recommendation algorithms based on shared knowledge and experiences.
 - Dismantling stigma and fostering a culture of informed menstrual health management through educational resources, supportive content, and community engagement features.
 
-<img width="452" alt="objectives" src="https://github.com/Palak-Kaushik/WHRS/assets/124910256/baf2232d-a4f9-4e7e-ba69-700c2808eb84">
+<img width="600" alt="objectives" src="https://github.com/Palak-Kaushik/WHRS/assets/124910256/baf2232d-a4f9-4e7e-ba69-700c2808eb84">
 
 
 
