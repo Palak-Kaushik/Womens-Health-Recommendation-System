@@ -4,6 +4,7 @@
 -  Drawbacks of Current Menstrual Tracking Applications
 -  Tackling the Limitations
 -  About the Large Language Model
+-  Methodology
 
 ## About
 
@@ -57,8 +58,9 @@ The model will serve as a holistic platform for users seeking personalized welln
 
 By providing a holistic suite of resources and recommendations, our platform aims to empower users in their journey toward optimal menstrual health and well-being.
 
+## Methodology
 
-
+<img width="600" alt="objectives" src="https://github.com/Palak-Kaushik/Womens-Health-Recommendation-System/assets/124910256/f14ac24b-3418-4f36-98c4-708069ca798a">
 
 
 
