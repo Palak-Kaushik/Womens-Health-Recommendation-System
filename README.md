@@ -5,6 +5,7 @@
 -  Tackling the Limitations
 -  About the Large Language Model
 -  Methodology
+-  Results
 
 ## About
 
@@ -61,6 +62,26 @@ By providing a holistic suite of resources and recommendations, our platform aim
 ## Methodology
 
 <img width="600" alt="objectives" src="https://github.com/Palak-Kaushik/Womens-Health-Recommendation-System/assets/124910256/f14ac24b-3418-4f36-98c4-708069ca798a">
+
+## Results
+
+- Length of Cycle:
+
+<img width="454" alt="Screenshot 2024-04-30 at 9 26 16 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/81deb528-1527-4f2c-969f-074d75242d02">
+
+
+- Estimated Ovulation Date:
+
+<img width="454" alt="Screenshot 2024-04-30 at 9 26 33 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/2342362f-66d3-46c0-808d-5e7822e40d14">
+
+- Length of Menses
+
+  <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/40150ef3-5280-4b53-a97c-50bf36825968">
+
+- UI/UX:
+
+  ![IMG-20240227-WA0006](https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/7d6008d7-71e1-4329-a1ca-5f6eb3b86baf)
+
 
 
 
