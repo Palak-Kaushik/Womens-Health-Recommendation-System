@@ -21,7 +21,7 @@ A Large Language Model based recommendation system that:
 - Use of crowdsourced data to enhance and optimize recommendation algorithms based on shared knowledge and experiences.
 - Dismantling stigma and fostering a culture of informed menstrual health management through educational resources, supportive content, and community engagement features.
 
-<img width="600" alt="objectives" src="https://github.com/Palak-Kaushik/WHRS/assets/124910256/baf2232d-a4f9-4e7e-ba69-700c2808eb84">
+  <img width="600" alt="objectives" src="https://github.com/Palak-Kaushik/WHRS/assets/124910256/baf2232d-a4f9-4e7e-ba69-700c2808eb84">
 
 
 
@@ -67,20 +67,20 @@ By providing a holistic suite of resources and recommendations, our platform aim
 
 - Length of Cycle:
 
-<img width="454" alt="Screenshot 2024-04-30 at 9 26 16 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/81deb528-1527-4f2c-969f-074d75242d02">
+   <img width="454" alt="Screenshot 2024-04-30 at 9 26 16 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/81deb528-1527-4f2c-969f-074d75242d02">
 
 
 - Estimated Ovulation Date:
 
-<img width="454" alt="Screenshot 2024-04-30 at 9 26 33 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/2342362f-66d3-46c0-808d-5e7822e40d14">
+   <img width="454" alt="Screenshot 2024-04-30 at 9 26 33 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/2342362f-66d3-46c0-808d-5e7822e40d14">
 
 - Length of Menses
 
-  <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/40150ef3-5280-4b53-a97c-50bf36825968">
+   <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/40150ef3-5280-4b53-a97c-50bf36825968">
 
 - UI/UX:
 
-  ![IMG-20240227-WA0006](https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/7d6008d7-71e1-4329-a1ca-5f6eb3b86baf)
+   <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/7d6008d7-71e1-4329-a1ca-5f6eb3b86baf">
 
 
 
